@@ -1,4 +1,4 @@
-.class public Lamimo/dcc/DccApplication;
+.class public LAzdsheer/Sparrow/AS7LAB;
 .super Landroid/app/Application;
 
 
@@ -6,7 +6,7 @@
 .method static final constructor <clinit>()V
     .registers 1
 
-    const-string v0, "stub"
+    const-string v0, "AS7LAB"
 
     invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 
