@@ -1,5 +1,1 @@
-Lcom/azdsheer/sparrow/AS7Dialog
-Lcom/azdsheer/sparrow/AS7/AS7Image
-Lcom/azdsheer/sparrow/AS7/AS7Colors
-Lcom/azdsheer/sparrow/AS7/AS7Strings
-Lcom/azdsheer/sparrow/AS7/AS7Dimens
+Lcom/AS7LAB/DL/AS7DL
